@@ -1,0 +1,13 @@
+@font-face{
+    font-family: 'KiwiMaru';
+    src: url('fonts/KiwiMaru-Light.ttf') format('truetype'),
+        url('fonts/KiwiMaru-Medium.ttf') format('truetype'),
+        url('fonts/KiwiMaru-Regular.ttf') format('truetype');
+}
+
+body {
+    font-size: 16px;
+    color: #fff;
+    background-color: #252525;
+    font-family: 'KiwiMaru';
+}
