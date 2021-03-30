@@ -11,3 +11,32 @@ body {
     background-color: #252525;
     font-family: 'KiwiMaru';
 }
+
+#header-nav {
+    background-color: rgba(48, 48, 48, 0.5);
+    border-radius: 0;
+    border: 0;
+    padding: 0;
+}
+
+div#logo {
+    width:100%;
+    height:100%;
+}
+
+#logo {
+    width: 120px;
+    height: 120px;
+    margin: 0 15px 10px 0;
+}
+
+#header-nav > div.container {
+    margin: 0;
+}
+
+div.navbar-brand {
+    position: relative;
+    float: right;
+    margin: 0;
+    padding: 15px 0 15px 0;
+}
